@@ -172,9 +172,9 @@ int main(){
  
 ```
 ### Output 1
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/struktur_data_semester3/blob/main/MODUL01/output/SOAL1.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL01/output/SOAL1.png)
 
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/struktur_data_semester3/blob/main/MODUL01P/output/SOAL1(JAM).png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL01P/output/SOAL1(JAM).png)
 
 
 ### penjelasan unguided 1
@@ -246,7 +246,7 @@ int main(){
 
 ```
 ### Output Unguided 2 :
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/struktur_data_semester3/blob/main/MODUL01/output/SOAL2.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL01/output/SOAL2.png)
 
 
 ### penjelasan unguided 2
@@ -280,7 +280,7 @@ int main(){
 }
 ```
 ### Output Unguided 3 :
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/struktur_data_semester3/blob/main/MODUL01/output/SOAL3.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL01/output/SOAL3.png)
 
 
 ### penjelasan unguided 3
