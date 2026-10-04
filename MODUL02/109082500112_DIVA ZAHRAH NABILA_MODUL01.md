@@ -232,7 +232,7 @@ int main(){
  
 ```
 ### Output 1
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL02/output/soal1.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL02/OUTPUT/soal1.png)
 
 ### penjelasan unguided 1
 [Kode program tersebut mendefinisikan dua buah matriks 3x3 yang disimpan dalam variabel A dan B, yang kemudian akan dilakukan operasi matematika berupa penjumlahan, pengurangan, dan perkalian antar kedua matriks tersebut menggunakan perulangan bersarang. Setelah itu, program akan memanggil sebuah fungsi khusus untuk menampilkan seluruh hasil dari perhitungan masing-masing operasi matriks tersebut ke layar.]
@@ -270,7 +270,7 @@ int main(){
 
 ```
 ### Output Unguided 2 :
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL02/output/soal2.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL02/OUTPUT/soal2.png)
 
 
 ### penjelasan unguided 2
@@ -362,7 +362,7 @@ int main(){
 }
 ```
 ### Output Unguided 3 :
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL02/output/soal3.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/STRUKTUR_DATA/blob/main/MODUL02/OUTPUT/soal3.png)
 
 
 ### penjelasan unguided 3
